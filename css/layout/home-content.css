@@ -281,7 +281,7 @@
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
+  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
