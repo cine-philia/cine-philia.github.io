@@ -906,7 +906,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Geist Variable', 'LXGW WenKai', sans-serif;
+  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', 'LXGW WenKai', sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -1016,7 +1016,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'Geist Variable', 'LXGW WenKai', sans-serif;
+  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', 'LXGW WenKai', sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
 }
@@ -3050,7 +3050,7 @@ html.is-animating .transition-fade {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'Geist Variable', 'LXGW WenKai', 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', 'LXGW WenKai', 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -6957,7 +6957,7 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .article-copyright-info-container {
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
   position: relative;
   width: 100%;
   box-sizing: border-box;
@@ -7301,7 +7301,7 @@ html.is-animating .scroll-progress-bar {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Geist Variable', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
+  font-family: 'https://gist.github.com/Albert221/753d7f8955eeb6f5e50486fce048e39f#file-jetbrains-mono-css', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
