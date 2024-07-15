@@ -13,14 +13,14 @@
     
     <!--- Seo Part-->
     
-    <link rel="canonical" href="http://example.com/404.html"/>
+    <link rel="canonical" href="http://example.com/"/>
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="revisit-after" content="1 days">
     
         <meta property="og:type" content="website">
-<meta property="og:title" content="Page Not Found">
-<meta property="og:url" content="http://example.com/404.html">
+<meta property="og:title" content="Cinephilia">
+<meta property="og:url" content="http://example.com/index.html">
 <meta property="og:site_name" content="Cinephilia">
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="Cine Philia">
@@ -35,8 +35,6 @@
     <!--- Page Info-->
     
     <title>
-        
-            Page Not Found -
         
         Theme Redefine
     </title>
@@ -265,6 +263,63 @@
 <main class="page-container" id="swup">
 
     
+        
+    <style>
+        .home-banner-container {
+            background: none !important;
+        }
+        .home-article-item,
+        .sidebar-links,
+        .sidebar-content,
+        a.page-number,
+        a.extend,
+        .sidebar-links .links:hover,
+        .right-bottom-tools,
+        footer.footer {
+            background-color: var(--background-color-transparent-80) !important;
+        }
+        .right-bottom-tools:hover,
+        a.page-number:hover,
+        a.extend:hover {
+            background-color: var(--primary-color) !important;
+        }
+        .site-info,
+        .home-article-sticky-label {
+            background-color: var(--background-color-transparent-15) !important;
+        }
+        .home-article-sticky-label {
+            backdrop-filter: none !important;
+        }
+    </style>
+    <div class="home-banner-background transition-fade fixed top-0 left-0 w-screen h-screen scale-125 sm:scale-110 box-border will-change-transform bg-cover">
+        <img src="/images/wallhaven-wqery6-light.webp" alt="home-banner-background" class="w-full h-full object-cover dark:hidden">
+        <img src="/images/wallhaven-wqery6-dark.webp" alt="home-banner-background" class="w-full h-full object-cover hidden dark:block">
+    </div>
+
+
+<div class="home-banner-container flex justify-center items-center transition-fade relative">
+    
+    <div class="content mt-8 flex flex-col justify-center items-center">
+        <div class="description flex flex-col justify-center items-center w-screen font-medium text-center"
+        
+        >
+            Theme Redefine
+            
+            
+                <p><i id="subtitle"></i></p>
+            
+        </div>
+        
+    </div>
+    <script>
+        const scrollToMain = ()=> {
+            console.log('scroll');
+            const target = document.querySelector('.main-content-container');
+            target.scrollIntoView({ behavior: 'smooth'});
+        }
+    </script>
+</div>
+    
 
     <div class="main-content-container">
 
@@ -272,13 +327,13 @@
         <div class="main-content-header">
             <header class="navbar-container px-6 md:px-12">
 
-    <div class="navbar-content ">
+    <div class="navbar-content has-home-banner">
         <div class="left">
             
             <a class="logo-title" href="/">
-                
+                <h1>
                 Theme Redefine
-                
+                </h1>
             </a>
         </div>
 
@@ -292,7 +347,7 @@
 
                             <li class="navbar-item">
                                 <!-- Menu -->
-                                <a class=""
+                                <a class="active"
                                    href="/"
                                         >
                                     <i class="fa-regular fa-house fa-fw"></i>
@@ -326,7 +381,7 @@
 
                     <li class="drawer-navbar-item text-base my-1.5 flex flex-col w-full">
                         
-                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full "
+                        <a class="py-1.5 px-2 flex flex-row items-center justify-between gap-1 hover:!text-primary active:!text-primary text-2xl font-semibold group border-b border-border-color hover:border-primary w-full active"
                            href="/"
                         >
                             <span>
@@ -372,19 +427,138 @@
         <div class="main-content-body">
 
             
+                <div class="home-sidebar-container">
+    <div class="sticky-container sticky">
+        
+        
+            
+            <div class="sidebar-content" >
+                <div class="avatar flex justify-center">
+    <img src="/images/redefine-avatar.svg">
+</div>
+                <div class="author flex flex-col justify-center my-2.5 mx-0">
+    <div class="name">The Redefine Team</div>
+    
+        <div class="label">Lv1</div>
+    
+</div>
+                <div class="statistics flex justify-around my-2.5">
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/tags">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">0</div>
+        <div class="label text-third-text-color text-sm">Tags</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/categories">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">0</div>
+        <div class="label text-third-text-color text-sm">Categories</div>
+    </a>
+    <a class="item tag-count-item flex flex-col justify-center items-center w-20" href="/archives">
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="label text-third-text-color text-sm">Posts</div>
+    </a>
+</div>
+            </div>
+        
+
+    </div>
+</div>
+
+            
 
             <div class="main-content">
 
                 
-                    <div class="nf-container">
-    <div class="nf-text">
-        <h1>404 Page Not Found</h1>
+                    <div class="home-content-container">
+    <ul class="home-article-list">
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/2024/07/15/Hello-Hexo/">
+                            Hello Hexo
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Welcome to Hexo ! This is your very first post. Check documentation  for more info. If you get any problems when using Hexo, ...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Jul 15 2024 17:13:48 GMT+0800">
+                
+                    2024-07-15
+                
+            </span>
+        </span>
+        
+        
     </div>
-    <div class="nf-button">
-        <a href="/" class="button large center"><i class="fa-regular fa-house"></i> Go Back Home</a>
+
+    <a href="/2024/07/15/Hello-Hexo/">Read more<span class="seo-reader-text">Hello Hexo</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+            <li class="home-article-item">
+
+                
+
+                
+
+                
+                <div class="flex flex-col gap-5 px-7 pb-7 pt-7">
+                    <h3 class="home-article-title">
+                        <a href="/2024/07/15/hello-world/">
+                            Hello World
+                        </a>
+                    </h3>
+
+                    <div class="home-article-content markdown-body">
+                        
+                            Welcome to Hexo ! This is your very first post. Check documentation  for more info. If you get any problems when using Hexo, ...
+                        
+                    </div>
+
+                    <div class="home-article-meta-info-container">
+    <div class="home-article-meta-info">
+        <span><i class="fa-solid fa-calendars"></i>&nbsp;
+            <span class="home-article-date" data-date="Mon Jul 15 2024 14:55:21 GMT+0800">
+                
+                    2024-07-15
+                
+            </span>
+        </span>
+        
+        
+    </div>
+
+    <a href="/2024/07/15/hello-world/">Read more<span class="seo-reader-text">Hello World</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+</div>
+
+                </div>
+            </li>
+        
+    </ul>
+
+    <div class="home-paginator px-7 py-5">
+        <div class="paginator">
+    <span class="page-number current">1</span>
+</div>
+
     </div>
 </div>
 
+                    <div class="comment-container pjax"></div>
                 
 
             </div>
@@ -549,6 +723,7 @@
         containers: ["#swup"],
     });
 </script>
+
 
 
 
