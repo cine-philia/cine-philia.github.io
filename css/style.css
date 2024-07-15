@@ -906,7 +906,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Geist Variable', 'PingFang SC', sans-serif;
+  font-family: 'Geist Variable', 'LXGW WenKai Screen', sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -1016,7 +1016,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'Geist Variable', 'PingFang SC', sans-serif;
+  font-family: 'Geist Variable', 'LXGW WenKai Screen', sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
 }
@@ -3050,7 +3050,7 @@ html.is-animating .transition-fade {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'Geist Variable', 'PingFang SC', 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'Geist Variable', 'LXGW WenKai Screen', 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -7301,7 +7301,7 @@ html.is-animating .scroll-progress-bar {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Geist Variable', 'PingFang SC', 'Noto Sans SC', sans-serif;
+  font-family: 'Geist Variable', 'LXGW WenKai Screen', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
