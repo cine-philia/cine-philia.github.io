@@ -907,7 +907,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', 'LXGW WenKai', sans-serif;
+  font-family: 'JetBrains Mono', 'LXGW WenKai', sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -1017,7 +1017,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', 'LXGW WenKai', sans-serif;
+  font-family: 'JetBrains Mono', 'LXGW WenKai', sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
 }
@@ -3051,7 +3051,7 @@ html.is-animating .transition-fade {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', 'LXGW WenKai', 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'JetBrains Mono', 'LXGW WenKai', 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -6977,7 +6977,7 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .article-copyright-info-container {
-  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
   position: relative;
   width: 100%;
   box-sizing: border-box;
@@ -7322,7 +7322,7 @@ html.is-animating .scroll-progress-bar {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
+  font-family: 'JetBrains Mono', 'LXGW WenKai', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
