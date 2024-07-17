@@ -165,7 +165,7 @@ home_banner:
       github: https://github.com/cine-philia # your GitHub URL
       zhihu: https://www.zhihu.com/people/2-95-33-45 # your ZhiHu URL
       email: yanjinli502@yeah.net # your email
-      x-twitter: https://x.com/philia20582 # your twitter URL
+      twitter: https://x.com/philia20582 # your twitter URL (x-twitter did not work)
       instagram: https://www.instagram.com/liyanjin666/ # your Instagram URL
       # ...... # you can add more
     # Social links with QRcode drawers
