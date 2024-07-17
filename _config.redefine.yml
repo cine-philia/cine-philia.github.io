@@ -194,11 +194,11 @@ navbar:
       path: /
       icon: fa-regular fa-house # can be empty
     # Archives:
-    #  path: /archives
-    #  icon: fa-regular fa-archive # can be empty
-    Status:
-      path: https://status.ohevan.com/
-      icon: fa-regular fa-chart-bar
+    #   path: /archives
+    #   icon: fa-regular fa-archive # can be empty
+    # Status:
+    #   path: https://status.ohevan.com/
+    #   icon: fa-regular fa-chart-bar
     About:
       icon: fa-regular fa-user
       submenus:
@@ -206,11 +206,11 @@ navbar:
         Github: https://github.com/cine-philia/cine-philia.github.io
         Blog: https://cine-philia.github.io/
     # Tags: #标签
-    #  icon: fa-solid fa-tags #图标
-    #  path: /tags/ #链接
+    #   icon: fa-solid fa-tags #图标
+    #   path: /tags/ #链接
     # Categories: #分类
-    #  icon: fa-solid fa-folder #图标
-    #  path: /categories/ #链接
+    #   icon: fa-solid fa-folder #图标
+    #   path: /categories/ #链接
     相册: #相册
       icon: fa-solid fa-image #图标
       path: /masonry/
