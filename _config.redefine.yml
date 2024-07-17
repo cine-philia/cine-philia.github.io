@@ -205,9 +205,9 @@ navbar:
     About:
       icon: fa-regular fa-user
       submenus:
-        Me: /about
-        GitHub Repo: https://github.com/cine-philia/cine-philia.github.io
-        Blog: https://cine-philia.github.io/
+        🧑🏻‍💻 Git Repo: https://github.com/cine-philia/cine-philia.github.io
+        🌐 Blog: https://cine-philia.github.io/
+        🙋🏻 Me: /about
     # Tags: #标签
     #   icon: fa-solid fa-tags #图标
     #   path: /tags/ #链接
