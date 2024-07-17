@@ -218,10 +218,10 @@ navbar:
     Links:
       icon: fa-regular fa-link
       submenus:
-        Archives: /archives
-        Tags: /tags
         Categories: /categories
+        Archives: /archives
         Friends: /links
+        Tags: /tags
     # ...... # you can add more
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
