@@ -171,6 +171,7 @@ home_banner:
     # Social links with QRcode drawers
     qrs:
       weixin: /images/wechat.jpg # your Wechat QRcode image URL
+      fa-solid fa-share-nodes: /images/official-account.jpg # your Official Account QRcode image URL
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
