@@ -199,12 +199,12 @@ navbar:
     # Status:
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    Gallery: #相册
+    Masonry: #相册
       icon: fa-solid fa-image #图标
       path: /masonry/
     Shuo: #说说
       icon: fa-solid fa-comment-dots #图标
-      path: /shuoshuo/
+      path: /essays/
     About:
       icon: fa-regular fa-user
       submenus:
