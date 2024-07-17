@@ -86,7 +86,7 @@ global:
   # Google Analytics
   google_analytics:
     enable: true # Whether to enable Google Analytics
-    id: # Google Analytics Measurement ID
+    id: G-NKKC6KJRSB # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # FONTAWESOME >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
