@@ -202,6 +202,9 @@ navbar:
     Gallery: #相册
       icon: fa-solid fa-image #图标
       path: /masonry/
+    Shuo: #说说
+      icon: fa-solid fa-comment-dots #图标
+      path: /shuoshuo/
     About:
       icon: fa-regular fa-user
       submenus:
@@ -242,15 +245,15 @@ home:
     announcement: "To Blog or Not to Blog" # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
+      Categories:
+        path: /categories
+        icon: fa-regular fa-folder # can be empty
       Archives:
         path: /archives
         icon: fa-regular fa-archive # can be empty
       Tags:
         path: /tags
         icon: fa-regular fa-tags # can be empty
-      Categories:
-        path: /categories
-        icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
