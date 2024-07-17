@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello Hexo</title>
-    <url>/post/test/Hello-Hexo/</url>
+    <url>/post/Hello-Hexo/</url>
     <content><![CDATA[<p>欢迎使用 <a class="link" href="https://hexo.io/">Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for 更多信息. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <h2 id="Quick-Start-快速开始"><a href="#Quick-Start-快速开始" class="headerlink" title="Quick Start 快速开始"></a>Quick Start 快速开始</h2><h3 id="Create-a-new-post-创建新文章"><a href="#Create-a-new-post-创建新文章" class="headerlink" title="Create a new post 创建新文章"></a>Create a new post 创建新文章</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div>
 
