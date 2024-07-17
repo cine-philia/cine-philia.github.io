@@ -6,7 +6,7 @@
 title: Cinephilia
 subtitle: "迷影至上"
 description: "Where Cine Philia Writes Her Blog."
-keywords:
+keywords: Cinephilia, 迷影至上, Blog, 博客
 author: Cine Philia
 language: zh-CN
 timezone: "Asia/Shanghai"
@@ -33,12 +33,12 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ""
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -46,7 +46,7 @@ future: true
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ""
   wrap: true
   hljs: false
@@ -107,9 +107,9 @@ deploy:
   branch: gh-pages
 
 mathjax:
-  tags: none # or 'ams' or 'all'
+  tags: all # or 'ams' or 'all'
   single_dollars: true # enable single dollar signs as in-line math delimiters
   cjk_width: 0.9 # relative CJK char width
   normal_width: 0.6 # relative normal (monospace) width
   append_css: true # add CSS to every page
-  every_page: false # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article
+  every_page: true # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article
