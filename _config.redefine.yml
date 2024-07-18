@@ -429,6 +429,14 @@ plugins:
         url: /music/Sonata-No.14-Moonlight.mp3 # audio url
         cover: /music/Beethoven.png # audio cover url
         lrc: # audio cover lrc
+      - name: BIRDS OF A FEATHER
+        artist: Billie Eilish
+        url: /music/Birds-Of-A-Feather.mp3
+        cover: /music/Hit-Me-Hard-And-Soft.png
+      - name: WILDFLOWER
+        artist: Billie Eilish
+        url: /music/Wildflower.mp3
+        cover: /music/Hit-Me-Hard-And-Soft.png
   #      - name: # audio name
   #        artist: # audio artist
   #        url: # audio url
