@@ -61,6 +61,8 @@ global:
       #url: https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1..1000;1,1..1000&display=swap # Font URL to CSS file
       family: Noto Sans
       url: https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap # Font URL to CSS file
+      # family: Oxygen
+      # url: https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap # Font URL to CSS file
   # Content max width
   content_max_width: 1000px
   # Sidebar width
