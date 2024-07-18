@@ -50,12 +50,12 @@ global:
   fonts:
     # Chinese fonts
     chinese:
-      enable: true # Whether to enable custom chinese fonts
+      enable: false # Whether to enable custom chinese fonts
       family: LXGW WenKai # Font family
       url: https://ik.imagekit.io/chinesefonts4/packages/lxgwwenkai/dist/LXGWWenKai-Regular/result.css # Font URL to CSS file
     # English fonts
     english:
-      enable: true # Whether to enable custom english fonts
+      enable: false # Whether to enable custom english fonts
       family: JetBrains Mono # Font family
       url: https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap # Font URL to CSS file
   # Content max width
