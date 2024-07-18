@@ -907,7 +907,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, sans-serif;
+  font-family: 'Oxygen', 'LXGW WenKai Screen', sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -1017,7 +1017,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, sans-serif;
+  font-family: 'Oxygen', 'LXGW WenKai Screen', sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
 }
@@ -1042,7 +1042,7 @@ button {
   font-size: 3.2rem;
   font-weight: 650;
   border-bottom: solid 2px var(--fourth-text-color);
-  margin-top: 3.2rem;
+  margin-top: 3rem;
   margin-bottom: 1rem;
   letter-spacing: -0.025em;
   line-height: 1.2;
@@ -1060,7 +1060,7 @@ button {
   font-weight: 650;
   padding: 3px 0;
   border-bottom: solid 2px var(--fourth-text-color);
-  margin-top: 2.4rem;
+  margin-top: 2.25rem;
   margin-bottom: 1rem;
   letter-spacing: -0.025em;
   line-height: 1.1;
@@ -1076,7 +1076,7 @@ button {
 .markdown-body .h3 {
   font-size: 1.8rem;
   font-weight: 600;
-  margin-top: 1.9rem;
+  margin-top: 1.78rem;
   margin-bottom: 0.75rem;
   letter-spacing: -0.025em;
   line-height: 1.3;
@@ -1092,7 +1092,7 @@ button {
 .markdown-body .h4 {
   font-size: 1.5rem;
   font-weight: 600;
-  margin-top: 1.6rem;
+  margin-top: 1.5rem;
   margin-bottom: 0.75rem;
   line-height: 1.4;
 }
@@ -1107,7 +1107,7 @@ button {
 .markdown-body .h5 {
   font-size: 1.28rem;
   font-weight: 600;
-  margin-top: 1.4rem;
+  margin-top: 1.31rem;
   margin-bottom: 0.5rem;
   line-height: 1.3;
 }
@@ -1122,7 +1122,7 @@ button {
 .markdown-body .h6 {
   font-size: 1.2rem;
   font-weight: 600;
-  margin-top: 1.3rem;
+  margin-top: 1.22rem;
   margin-bottom: 0.5rem;
   line-height: 1.2;
 }
@@ -3051,7 +3051,7 @@ html.is-animating .transition-fade {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'Oxygen', 'LXGW WenKai Screen', 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -5768,7 +5768,7 @@ html.is-animating .scroll-progress-bar {
   }
 }
 .article-copyright-info-container {
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'Oxygen', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
   position: relative;
   width: 100%;
   box-sizing: border-box;
@@ -6113,7 +6113,7 @@ html.is-animating .scroll-progress-bar {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Geist Variable', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans SC', sans-serif;
+  font-family: 'Oxygen', 'LXGW WenKai Screen', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
