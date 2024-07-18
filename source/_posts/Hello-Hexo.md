@@ -1,6 +1,6 @@
 ---
-title: Hello Hexo
-category: Test
+title: 为什么选择 Hexo
+category: 
 ---
 欢迎使用 [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for 更多信息. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
