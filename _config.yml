@@ -106,6 +106,7 @@ deploy:
   ## repo: https://github.com/cine-philia/cine-philia.github.io.git
   branch: gh-pages
 
+# Add LaTeX Support
 mathjax:
   tags: all # or 'ams' or 'all'
   single_dollars: true # enable single dollar signs as in-line math delimiters
@@ -125,3 +126,11 @@ feed:
   content_limit_delim: " "
   order_by: -date
   icon: icon.png
+
+# Add Emoji Support for Markdown Rendering
+githubEmojis:
+  enable: true
+  className: github-emoji
+  inject: true
+  styles:
+  customEmojis:
