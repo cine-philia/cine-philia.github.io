@@ -427,7 +427,7 @@ plugins:
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
     enable: true # Whether to enable
-    type: fixed # fixed, mini
+    type: mini # fixed, mini
     audios:
       - name: Sonata No.14 Moonlight # audio name
         artist: Ludwig van Beethoven # audio artist

@@ -1254,6 +1254,11 @@ align-text@^0.1.1, align-text@^0.1.3:
     longest "^1.0.1"
     repeat-string "^1.5.2"
 
+all@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.npmmirror.com/all/-/all-0.0.0.tgz#fb2aa75d4759d40e39ecbb118fabf0cc11ff554f"
+  integrity sha512-0oKlfNVv2d+d7c1gwjGspzgbwot47PGQ4b3v1ccx4mR8l9P/Y6E6Dr/yE8lNT63EcAKEbHo6UG3odDpC/NQcKw==
+
 amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/amdefine/-/amdefine-1.0.1.tgz"
@@ -4910,7 +4915,7 @@ hexo-generator-tag@^2.0.0:
 
 hexo-helper-live2d@^3.1.1:
   version "3.1.1"
-  resolved "https://registry.npmmirror.com/hexo-helper-live2d/-/hexo-helper-live2d-3.1.1.tgz"
+  resolved "https://registry.npmmirror.com/hexo-helper-live2d/-/hexo-helper-live2d-3.1.1.tgz#9588fc9160fec0df87531e486819762c3d5c119d"
   integrity sha512-YqWAyCjB91kLBYJnmYJZtecKvfw+ph0cIZfycjZeJ4rYvF4d4Z+C5TVVW2SPstOEbNvwK0PpimUhi6r3hT5z7g==
   dependencies:
     colors "^1.3.3"
@@ -6154,6 +6159,14 @@ jpegtran-bin@^5.0.0:
     bin-wrapper "^4.0.0"
     logalot "^2.0.0"
 
+jpegtran-bin@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npmmirror.com/jpegtran-bin/-/jpegtran-bin-7.0.0.tgz#9da72fc9e59b3cd45f2bafc5324c56c341141ae7"
+  integrity sha512-8ecI4vXIV7eI2+nzRQsHAVaQVBGDotUY76CJZhlYaBAljBnK/509+sGGCs8eJyiS5N4tOcYZS+8Q4KgzorqlBA==
+  dependencies:
+    bin-build "^3.0.0"
+    bin-wrapper "^4.0.0"
+
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmmirror.com/js-tokens/-/js-tokens-4.0.0.tgz"
@@ -6426,6 +6439,46 @@ libnpmconfig@^1.2.1:
     figgy-pudding "^3.5.1"
     find-up "^3.0.0"
     ini "^1.3.5"
+
+live2d-widget-model-chitose@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-chitose/-/live2d-widget-model-chitose-1.0.5.tgz#e6aed2d6343e50f316b97967394889583bd407c3"
+  integrity sha512-gUyTulOh9+e9JU/8oxV7GpFLrI/nRiKIl9k2Nu3gLCsPoUk/pvL5GURj5A0tel5vhiY3hjgBSNKOvyisXfUEww==
+
+live2d-widget-model-haru@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-haru/-/live2d-widget-model-haru-1.0.5.tgz#6b51addbb4912df4aaaeaac4da64f1df04ee8f1d"
+  integrity sha512-n895K0BAnN0FJymwADn60WBacWQaqeoFJa5ux6ImEeIE/k+tLRI751B8RiY+zCk/WjdA8oTyuBt5QEhwWghMYw==
+
+live2d-widget-model-hibiki@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-hibiki/-/live2d-widget-model-hibiki-1.0.5.tgz#0ef1d99b43d279fb9531bccaa9acc12dd5069ff5"
+  integrity sha512-MPtmSb0WFRz+gaOAhOyz5xbrpX9wO5utuhqEQwx7rRXIYo/YmQcjLSnMVXWC6tQ7tBQPkAKeQ55RunlnNM3b2A==
+
+live2d-widget-model-hijiki@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-hijiki/-/live2d-widget-model-hijiki-1.0.5.tgz#c2ddc6b2380be11b8b8bc2df0d82fd6dfa007f11"
+  integrity sha512-1htA3VPgqw5mvs94qHVqy56MjmF1huBXst1SsgphNyeWuZT3aH87I0sF1Ene7WDkyEPnMeR+pX1bJxWa524snA==
+
+live2d-widget-model-shizuku@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-shizuku/-/live2d-widget-model-shizuku-1.0.5.tgz#136f269690b20738fa0e9b67e33aa643007512a8"
+  integrity sha512-keEQR1Bm7HILLjNSIpmg1SGuo4H/ZsGRxnBn0l0BxgEbaHlmEE+Jb5nwhAtnh7PN/SRFE3+Ddk/ciy18sT7rAw==
+
+live2d-widget-model-tororo@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-tororo/-/live2d-widget-model-tororo-1.0.5.tgz#f556caff824198ff41d12f7cec807e1301ebc9d1"
+  integrity sha512-qcDZnXyzmNM5NADDAWpknWMCqoip3CZ9bYrKKB0PqusnrUTK0e5k1jAl+RCos9Sbg9g1xzse50vmREwj1LiJ3w==
+
+live2d-widget-model-unitychan@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-unitychan/-/live2d-widget-model-unitychan-1.0.5.tgz#fdf0ad303eaca04d42dec05c45a82a24184b7953"
+  integrity sha512-7mkTW/VFYdBqA8vjCpn2x3mZoqcdx35LqSEAVmsr/pDnEOhmm8GFOCNpwYOybvg+oBbB3fXeKdLHtv0q7SU9pA==
+
+live2d-widget-model-wanko@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmmirror.com/live2d-widget-model-wanko/-/live2d-widget-model-wanko-1.0.5.tgz#2833486bc76528ce37e7e04fdbbe623191e03953"
+  integrity sha512-ej3XMEeQ0UPQ1Iz+W0XKOuHEKEE9Vs929APuHKOZO7xJmLIKZzd5cbsoq56z1L7g8DNCVStx6Lb9ZubRAao2jw==
 
 live2d-widget@^3.1.3:
   version "3.1.4"

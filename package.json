@@ -12,6 +12,7 @@
     "version": "7.3.0"
   },
   "dependencies": {
+    "all": "^0.0.0",
     "hexo": "^7.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-admin": "^2.3.0",
@@ -48,6 +49,15 @@
     "hexo-theme-stellar": "^1.29.1",
     "hexo-theme-volantis": "^5.8.0",
     "hexo-wordcount": "^6.0.1",
+    "jpegtran-bin": "^7.0.0",
+    "live2d-widget-model-chitose": "^1.0.5",
+    "live2d-widget-model-haru": "^1.0.5",
+    "live2d-widget-model-hibiki": "^1.0.5",
+    "live2d-widget-model-hijiki": "^1.0.5",
+    "live2d-widget-model-shizuku": "^1.0.5",
+    "live2d-widget-model-tororo": "^1.0.5",
+    "live2d-widget-model-unitychan": "^1.0.5",
+    "live2d-widget-model-wanko": "^1.0.5",
     "lxgw-wenkai-lite-webfont": "^1.7.0",
     "lxgw-wenkai-screen-webfont": "^1.7.0",
     "lxgw-wenkai-tc-webfont": "^1.2.0",
