@@ -1,13 +1,556 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>macOS Sonama</title>
-    <url>/post/Test/</url>
-    <content><![CDATA[<p>由于我原文在新博客 写的是英文版，所以本中文版直接用 GPT-4 翻译的（太懒了😭，如有问题，敬请谅解</p>
-<p>如果你想锻炼一下你的英文能力，可以前往 macOS Sonoma Public Beta Review - Cirno’s Sketchbook  查看，感谢理解。如果方便，麻烦在 Cirno’s Sketchbook  订阅留下你的邮箱，可以及时收取我新发的文章，绝对干货，感激不尽！</p>
-<p>我此后都会在新博客更新英文文章，本博客仅写中文。</p>
-<p>macOS 14，也被称为 macOS Sonoma，已经推出一段时间了。就我个人而言，在WWDC 2023 后，我立即升级到了开发者测试版。</p>
-<p>在使用了一段时间的开发者和公共测试版后，以下是我对新的macOS Sonoma的印象。</p>
-]]></content>
+    <title>activate windows</title>
+    <url>/post/activate-windows/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>activate office</title>
+    <url>/post/activate-office/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>blog style guide</title>
+    <url>/post/blog-style-guide/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>browser intro</title>
+    <url>/post/browser-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>build ghpages blog with hexo</title>
+    <url>/post/build-ghpages-blog-with-hexo/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>c beginner</title>
+    <url>/post/c-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>character encoding intro</title>
+    <url>/post/character-encoding-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>cloud server beginner</title>
+    <url>/post/cloud-server-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure arch linux from scratch</title>
+    <url>/post/configure-arch-linux-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure macos from scratch</title>
+    <url>/post/configure-macos-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure raspberry pi from scratch</title>
+    <url>/post/configure-raspberry-pi-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure ubuntu from scratch</title>
+    <url>/post/configure-ubuntu-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure windows from scratch</title>
+    <url>/post/configure-windows-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>configure wsl from scratch</title>
+    <url>/post/configure-wsl-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>customize my chrome</title>
+    <url>/post/customize-my-chrome/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>customize my firefox</title>
+    <url>/post/customize-my-firefox/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>desktop diy</title>
+    <url>/post/desktop-diy/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>customize my msedge</title>
+    <url>/post/customize-my-msedge/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>disk partition</title>
+    <url>/post/disk-partition/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>douban film review backup</title>
+    <url>/post/douban-film-review-backup/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>distribute article multi-platform</title>
+    <url>/post/distribute-article-multi-platform/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>emoji intro</title>
+    <url>/post/emoji-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>file syncing</title>
+    <url>/post/file-syncing/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>file system</title>
+    <url>/post/file-system/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>file transfer</title>
+    <url>/post/file-transfer/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>folders in c drive</title>
+    <url>/post/folders-in-c-drive/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>font ligature</title>
+    <url>/post/font-ligature/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>fonts recommended</title>
+    <url>/post/fonts-recommended/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>git quick start</title>
+    <url>/post/git-quick-start/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>get books freely</title>
+    <url>/post/get-books-freely/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>gmail guide</title>
+    <url>/post/gmail-guide/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>github quick start</title>
+    <url>/post/github-quick-start/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>harvard cs50 index</title>
+    <url>/post/harvard-cs50-index/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>harvard cs50 sum</title>
+    <url>/post/harvard-cs50-sum/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>hexo theme redefined</title>
+    <url>/post/hexo-theme-redefined/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>how i use chatgpt</title>
+    <url>/post/how-i-use-chatgpt/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>how to do sth for free</title>
+    <url>/post/how-to-do-sth-for-free/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>how to search efficiently</title>
+    <url>/post/how-to-search-efficiently/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>i read books</title>
+    <url>/post/i-read-books/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>i see films</title>
+    <url>/post/i-see-films/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>i watch documentaries</title>
+    <url>/post/i-watch-documentaries/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>image hosting beginner</title>
+    <url>/post/image-hosting-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ime intro</title>
+    <url>/post/ime-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>i watch series</title>
+    <url>/post/i-watch-series/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>install multi os</title>
+    <url>/post/install-multi-os/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>latex beginner</title>
+    <url>/post/latex-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>learn driving</title>
+    <url>/post/learn-driving/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>learn git from scratch</title>
+    <url>/post/learn-git-from-scratch/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>learn swimming</title>
+    <url>/post/learn-swimming/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>lfs hands-on</title>
+    <url>/post/lfs-hands-on/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>linux beginner</title>
+    <url>/post/linux-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>lfs index</title>
+    <url>/post/lfs-index/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>linux intro</title>
+    <url>/post/linux-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mail type intro</title>
+    <url>/post/mail-type-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>listen to music freely</title>
+    <url>/post/listen-to-music-freely/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>markdown guide</title>
+    <url>/post/markdown-guide/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 02</title>
+    <url>/post/mit-ms-02/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 03</title>
+    <url>/post/mit-ms-03/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 01</title>
+    <url>/post/mit-ms-01/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 04</title>
+    <url>/post/mit-ms-04/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 06</title>
+    <url>/post/mit-ms-06/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 05</title>
+    <url>/post/mit-ms-05/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 07</title>
+    <url>/post/mit-ms-07/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 08</title>
+    <url>/post/mit-ms-08/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 10</title>
+    <url>/post/mit-ms-10/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 09</title>
+    <url>/post/mit-ms-09/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms 11</title>
+    <url>/post/mit-ms-11/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms index</title>
+    <url>/post/mit-ms-index/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>mit ms sum</title>
+    <url>/post/mit-ms-sum/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>move user folder</title>
+    <url>/post/move-user-folder/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my dotfiles</title>
+    <url>/post/my-dotfiles/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my computers</title>
+    <url>/post/my-computers/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my top10 documentaries</title>
+    <url>/post/my-top10-documentaries/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my top10 movie</title>
+    <url>/post/my-top10-movie/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my top10 series</title>
+    <url>/post/my-top10-series/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my windows softwares</title>
+    <url>/post/my-windows-softwares/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>my vscode extensions</title>
+    <url>/post/my-vscode-extensions/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>open source license intro</title>
+    <url>/post/open-source-license-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>over gfw</title>
+    <url>/post/over-gfw/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>p2p intro</title>
+    <url>/post/p2p-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>pwa quick start</title>
+    <url>/post/pwa-quick-start/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>raspberry pi beginner</title>
+    <url>/post/raspberry-pi-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>reinstall windows 11</title>
+    <url>/post/reinstall-windows-11/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>refind intro config</title>
+    <url>/post/refind-intro-config/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>rss guide</title>
+    <url>/post/rss-guide/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>seo beginner</title>
+    <url>/post/seo-beginner/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>shell configure omp</title>
+    <url>/post/shell-configure-omp/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>travel to xian</title>
+    <url>/post/travel-to-xian/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>unix intro</title>
+    <url>/post/unix-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>step into github</title>
+    <url>/post/step-into-github/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>travel to zhengzhou</title>
+    <url>/post/travel-to-zhengzhou/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>unix vs linux</title>
+    <url>/post/unix-vs-linux/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>uuid intro</title>
+    <url>/post/uuid-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ventoy config</title>
+    <url>/post/ventoy-config/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ventoy intro</title>
+    <url>/post/ventoy-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>video format intro</title>
+    <url>/post/video-format-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>vscode editor config</title>
+    <url>/post/vscode-editor-config/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>vscode intro</title>
+    <url>/post/vscode-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>watch videos freely</title>
+    <url>/post/watch-videos-freely/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>why design like this</title>
+    <url>/post/why-design-like-this/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>为什么我选择了 Hexo</title>
+    <url>/post/why-i-choose-hexo/</url>
+    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Hexo Theme</tag>
+        <tag>Hexo Theme Redefine</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>why linux macos no defragment</title>
+    <url>/post/why-linux-macos-no-defragment/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>why linux swap</title>
+    <url>/post/why-linux-swap/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>why linux virtual memory</title>
+    <url>/post/why-linux-virtual-memory/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>why windows defragment</title>
+    <url>/post/why-windows-defragment/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>winpe intro</title>
+    <url>/post/winpe-intro/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>wsl problem log</title>
+    <url>/post/wsl-problem-log/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>zhihu collection backup</title>
+    <url>/post/zhihu-collection-backup/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>zsh configure omz</title>
+    <url>/post/zsh-configure-omz/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

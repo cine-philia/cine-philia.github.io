@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cinephilia</title>
+  <icon>https://cine-philia.github.io/icon.png</icon>
+  <subtitle>迷影至上</subtitle>
+  <link href="https://cine-philia.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cine-philia.github.io/"/>
+  <updated>2024-07-20T06:23:46.359Z</updated>
+  <id>https://cine-philia.github.io/</id>
+  
+  <author>
+    <name>Cine Philia</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>file syncing</title>
+    <link href="https://cine-philia.github.io/post/file-syncing/"/>
+    <id>https://cine-philia.github.io/post/file-syncing/</id>
+    <published>2024-07-20T06:14:11.000Z</published>
+    <updated>2024-07-20T06:23:46.359Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>file transfer</title>
+    <link href="https://cine-philia.github.io/post/file-transfer/"/>
+    <id>https://cine-philia.github.io/post/file-transfer/</id>
+    <published>2024-07-20T06:13:57.000Z</published>
+    <updated>2024-07-20T06:23:46.357Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>pwa quick start</title>
+    <link href="https://cine-philia.github.io/post/pwa-quick-start/"/>
+    <id>https://cine-philia.github.io/post/pwa-quick-start/</id>
+    <published>2024-07-20T03:29:25.000Z</published>
+    <updated>2024-07-20T04:33:35.034Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>shell configure omp</title>
+    <link href="https://cine-philia.github.io/post/shell-configure-omp/"/>
+    <id>https://cine-philia.github.io/post/shell-configure-omp/</id>
+    <published>2024-07-20T03:18:17.000Z</published>
+    <updated>2024-07-20T04:33:35.042Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>seo beginner</title>
+    <link href="https://cine-philia.github.io/post/seo-beginner/"/>
+    <id>https://cine-philia.github.io/post/seo-beginner/</id>
+    <published>2024-07-20T02:33:05.000Z</published>
+    <updated>2024-07-20T04:33:35.041Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>gmail guide</title>
+    <link href="https://cine-philia.github.io/post/gmail-guide/"/>
+    <id>https://cine-philia.github.io/post/gmail-guide/</id>
+    <published>2024-07-20T02:31:07.000Z</published>
+    <updated>2024-07-20T04:33:34.908Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>get books freely</title>
+    <link href="https://cine-philia.github.io/post/get-books-freely/"/>
+    <id>https://cine-philia.github.io/post/get-books-freely/</id>
+    <published>2024-07-20T02:30:05.000Z</published>
+    <updated>2024-07-20T04:33:34.903Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mail type intro</title>
+    <link href="https://cine-philia.github.io/post/mail-type-intro/"/>
+    <id>https://cine-philia.github.io/post/mail-type-intro/</id>
+    <published>2024-07-19T14:28:19.000Z</published>
+    <updated>2024-07-20T04:33:34.978Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>video format intro</title>
+    <link href="https://cine-philia.github.io/post/video-format-intro/"/>
+    <id>https://cine-philia.github.io/post/video-format-intro/</id>
+    <published>2024-07-19T11:31:33.000Z</published>
+    <updated>2024-07-20T04:33:35.056Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>my windows softwares</title>
+    <link href="https://cine-philia.github.io/post/my-windows-softwares/"/>
+    <id>https://cine-philia.github.io/post/my-windows-softwares/</id>
+    <published>2024-07-19T11:29:06.000Z</published>
+    <updated>2024-07-20T04:33:35.028Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>image hosting beginner</title>
+    <link href="https://cine-philia.github.io/post/image-hosting-beginner/"/>
+    <id>https://cine-philia.github.io/post/image-hosting-beginner/</id>
+    <published>2024-07-19T11:28:15.000Z</published>
+    <updated>2024-07-20T04:33:34.938Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>how i use chatgpt</title>
+    <link href="https://cine-philia.github.io/post/how-i-use-chatgpt/"/>
+    <id>https://cine-philia.github.io/post/how-i-use-chatgpt/</id>
+    <published>2024-07-19T10:07:00.000Z</published>
+    <updated>2024-07-20T04:33:34.920Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>i watch documentaries</title>
+    <link href="https://cine-philia.github.io/post/i-watch-documentaries/"/>
+    <id>https://cine-philia.github.io/post/i-watch-documentaries/</id>
+    <published>2024-07-19T09:54:43.000Z</published>
+    <updated>2024-07-20T04:33:34.932Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>i watch series</title>
+    <link href="https://cine-philia.github.io/post/i-watch-series/"/>
+    <id>https://cine-philia.github.io/post/i-watch-series/</id>
+    <published>2024-07-19T09:54:12.000Z</published>
+    <updated>2024-07-20T04:33:34.935Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>i see films</title>
+    <link href="https://cine-philia.github.io/post/i-see-films/"/>
+    <id>https://cine-philia.github.io/post/i-see-films/</id>
+    <published>2024-07-19T09:54:00.000Z</published>
+    <updated>2024-07-20T04:33:34.930Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>uuid intro</title>
+    <link href="https://cine-philia.github.io/post/uuid-intro/"/>
+    <id>https://cine-philia.github.io/post/uuid-intro/</id>
+    <published>2024-07-19T09:43:59.000Z</published>
+    <updated>2024-07-20T04:33:35.051Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo theme redefined</title>
+    <link href="https://cine-philia.github.io/post/hexo-theme-redefined/"/>
+    <id>https://cine-philia.github.io/post/hexo-theme-redefined/</id>
+    <published>2024-07-19T09:36:21.000Z</published>
+    <updated>2024-07-20T04:33:34.917Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>i read books</title>
+    <link href="https://cine-philia.github.io/post/i-read-books/"/>
+    <id>https://cine-philia.github.io/post/i-read-books/</id>
+    <published>2024-07-19T09:34:19.000Z</published>
+    <updated>2024-07-20T04:33:34.927Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>douban film review backup</title>
+    <link href="https://cine-philia.github.io/post/douban-film-review-backup/"/>
+    <id>https://cine-philia.github.io/post/douban-film-review-backup/</id>
+    <published>2024-07-19T09:33:31.000Z</published>
+    <updated>2024-07-20T04:33:34.893Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>zhihu collection backup</title>
+    <link href="https://cine-philia.github.io/post/zhihu-collection-backup/"/>
+    <id>https://cine-philia.github.io/post/zhihu-collection-backup/</id>
+    <published>2024-07-19T09:32:44.000Z</published>
+    <updated>2024-07-20T04:33:35.073Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
