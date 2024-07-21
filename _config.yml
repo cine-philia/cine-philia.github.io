@@ -170,3 +170,24 @@ live2d:
   dialog:
     enable: true # 是否开启对话框
     hitokoto: true # 是否使用一言
+
+plugins:
+  - hexo-tag-spotify
+# =====================================================
+##size
+#large (default)
+#compact
+#width>x<height>
+
+##theme
+#dark (default)
+#light
+
+##view
+#list (default)
+#cover
+spotify:
+  size: "large"
+  theme: "dark"
+  view: "list"
+# =====================================================

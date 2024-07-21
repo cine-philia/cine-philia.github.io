@@ -5074,6 +5074,11 @@ hexo-tag-owl@^1.2.2:
     object-assign "^4.1.0"
     stylus "^0.54.2"
 
+hexo-tag-spotify@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.npmmirror.com/hexo-tag-spotify/-/hexo-tag-spotify-1.1.2.tgz#cd6addf66bb5ac4b53a2523f2435d4a8896b3293"
+  integrity sha512-cKWEnGQfesGPpEqZ+wKwCzpdv+jCXzyBc3oSbzQqlGO3FmzCrMwsTz64u/4kBYnDux0GffF+FuLjQEbjPuipjw==
+
 hexo-theme-ayer@^1.9.7-0:
   version "1.9.7-0"
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz"
