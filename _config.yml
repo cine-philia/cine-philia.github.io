@@ -186,6 +186,7 @@ plugins:
 ##view
 #list (default)
 #cover
+
 spotify:
   size: "large"
   theme: "dark"
