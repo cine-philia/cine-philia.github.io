@@ -410,8 +410,8 @@ inject:
   enable: true
   # Inject custom head html code
   head:
-    - <link rel="stylesheet" href="/css/cursor/mouse.css"> # 鼠标样式特效
-    - <link rel="stylesheet" type="text/css" href="<%- theme.jsDelivr.url %><%- url_for('/css/loading.css') %>"> # 加载动画
+    - <link rel="stylesheet" href="/css/cursor/mouse-white.css"> # 鼠标样式特效
+    -
   # Inject custom footer html code
   footer:
     - "<script src='/js/cursor/cherry.js'></script>" # 鼠标滑动樱花特效
