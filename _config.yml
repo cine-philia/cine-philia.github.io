@@ -276,7 +276,7 @@ bangumi: # 追番设置
 cinema: # 追剧设置
   enable: true
   path:
-  vmid:
+  vmid: 3494367876614193
   title: "追剧列表"
   quote: "生命不息，追剧不止！"
   show: 1
@@ -297,7 +297,7 @@ game: # 游戏设置，仅支持source: bgmv0
   enable: true
   path:
   source: bgmv0
-  vmid:
+  vmid: 3494367876614193
   title: "游戏列表"
   quote: "生命不息，游戏不止！"
   show: 1

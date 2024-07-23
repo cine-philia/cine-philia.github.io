@@ -5618,11 +5618,6 @@ hexo-tag-spotify@^1.1.2:
   resolved "https://registry.npmmirror.com/hexo-tag-spotify/-/hexo-tag-spotify-1.1.2.tgz#cd6addf66bb5ac4b53a2523f2435d4a8896b3293"
   integrity sha512-cKWEnGQfesGPpEqZ+wKwCzpdv+jCXzyBc3oSbzQqlGO3FmzCrMwsTz64u/4kBYnDux0GffF+FuLjQEbjPuipjw==
 
-hexo-tag-wikipedia@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/hexo-tag-wikipedia/-/hexo-tag-wikipedia-1.0.1.tgz#8dc6b07921ae119950fa23a38c38912bc9fac238"
-  integrity sha512-YilNtJ2KtRFK7fMMwtuQnsvzYUbYxq6e6FFvcEPYNv52zwj84T/dIDN8MYWeprqjzQX7xbqYs3lJH+TDPkKDVA==
-
 hexo-test-utils@^0.6.0:
   version "0.6.0"
   resolved "https://registry.npmmirror.com/hexo-test-utils/-/hexo-test-utils-0.6.0.tgz#58e2cd0cfa51572ac720005abd4e973ae9a47955"
