@@ -237,3 +237,123 @@ douban:
       - wish
       - collect
     option:
+
+backup:
+  type: git
+  theme: coney,landscape,xxx
+  repository:
+    github: git@github.com:cine-philia/cine-philia.github.io.git,backup
+    # gitcafe: git@github.com:cine-philia/cine-philia.github.io.git,branchName
+
+# hexo-bilibili-bangumi
+bangumi: # 追番设置
+  enable: true
+  source: bili
+  bgmInfoSource: "bgmv0"
+  path:
+  vmid: 3494367876614193
+  title: "追番列表"
+  quote: "生命不息，追番不止！"
+  show: 1
+  lazyload: true
+  srcValue: "__image__"
+  lazyloadAttrName: "data-src=__image__"
+  loading:
+  showMyComment: false
+  pagination: false
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  order: latest
+  proxy:
+    host: "代理host"
+    port: "代理端口"
+  extra_options:
+    key: value
+  coverMirror:
+cinema: # 追剧设置
+  enable: true
+  path:
+  vmid:
+  title: "追剧列表"
+  quote: "生命不息，追剧不止！"
+  show: 1
+  lazyload: true
+  srcValue: "__image__"
+  lazyloadAttrName: "data-src=__image__"
+  loading:
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  order:
+  extra_options:
+    key: value
+  coverMirror:
+game: # 游戏设置，仅支持source: bgmv0
+  enable: true
+  path:
+  source: bgmv0
+  vmid:
+  title: "游戏列表"
+  quote: "生命不息，游戏不止！"
+  show: 1
+  lazyload: true
+  srcValue: "__image__"
+  lazyloadAttrName: "data-src=__image__"
+  loading:
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  order:
+  extra_options:
+    key: value
+  coverMirror:
+
+# hexo-hide-posts
+hide_posts:
+  # 是否启用 hexo-hide-posts
+  enable: true
+
+  # 隐藏文章的 front-matter 标识，也可以改成其他你喜欢的名字
+  filter: hidden
+
+  # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
+  noindex: false
+
+  # 设置白名单，白名单中的 generator 可以访问隐藏文章
+  # 常见的 generators 有：index, tag, category, archive, sitemap, feed, etc.
+  # allowlist_generators: []
+
+  # 设置黑名单，黑名单中的 generator 不可以访问隐藏文章
+  # 如果同时设置了黑名单和白名单，白名单的优先级更高
+  # blocklist_generators: ['*']
+
+steam:
+  enable: true
+  steamId: "76561199582184371" #steam 64位Id
+  apiKey: "6DD18DCBD4B3700D5F00A39106DE2186" #steam api key
+  steamInfos: # 多账号配置
+    - id: "*****" #steam 64位Id
+      path: # 为每个帐号游戏库单独配置页面路径，默认`steamgames/{steamId}/index.html`
+    - id: "*****"
+  freeGames: true
+  path:
+  title: Steam 游戏库
+  quote: "+1+1+1+1+1"
+  tab: recent
+  length: 1000
+  imgUrl: "*****"
+  proxy:
+    host:
+    port:
+  extra_options:
+    key: value
+
+mtime:
+  css: https://cdn.mayuko.cn/css/hexo-tag-mtime.css
