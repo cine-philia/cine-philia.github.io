@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cine-philia.github.io/post/demo/</loc>
+    <lastmod>2024-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://cine-philia.github.io/post/downloader-intro/</loc>
+    <lastmod>2024-07-23</lastmod>
+  </url>
+  <url>
     <loc>https://cine-philia.github.io/post/adobe-flash-player-intro/</loc>
     <lastmod>2024-07-22</lastmod>
   </url>
@@ -14,10 +22,6 @@
   </url>
   <url>
     <loc>https://cine-philia.github.io/post/js-package-manager-intro/</loc>
-    <lastmod>2024-07-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cine-philia.github.io/post/demo/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
@@ -41,11 +45,11 @@
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/telegram-quick-start/</loc>
+    <loc>https://cine-philia.github.io/post/text-editor-intro/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/text-editor-intro/</loc>
+    <loc>https://cine-philia.github.io/post/telegram-quick-start/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
@@ -141,11 +145,11 @@
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-organic-chemistry/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-outbreak-science/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-outbreak-science/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-organic-chemistry/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
@@ -213,11 +217,11 @@
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-ecology/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-economics/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-economics/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-ecology/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
@@ -277,11 +281,11 @@
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/cloud-drive-intro/</loc>
+    <loc>https://cine-philia.github.io/post/cloud-drive-advanced/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
-    <loc>https://cine-philia.github.io/post/cloud-drive-advanced/</loc>
+    <loc>https://cine-philia.github.io/post/cloud-drive-intro/</loc>
     <lastmod>2024-07-21</lastmod>
   </url>
   <url>
