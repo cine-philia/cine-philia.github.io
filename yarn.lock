@@ -5631,10 +5631,10 @@ hexo-theme-ayer@^1.9.7-0:
   resolved "https://registry.npmmirror.com/hexo-theme-ayer/-/hexo-theme-ayer-1.9.7-0.tgz"
   integrity sha512-E25b6PufcYILxIkKd1W4+N3LMpVlVsNEvHCoxeBs5E2bjqF2M7yI1PPKFCf9/rMuwsMyRxRc3icbBt9tMb+Rfg==
 
-hexo-theme-fluid@^1.9.7:
-  version "1.9.7"
-  resolved "https://registry.npmmirror.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.7.tgz"
-  integrity sha512-rLpUNcs8XhAQZ9Iq8nZ27XbMDtbJs/y35kkpPmebUqV9hV+j3/Yy3tf3zKJW3nzZhTO/8bXYrtNDvmoj1TRmBQ==
+hexo-theme-fluid@^1.9.8:
+  version "1.9.8"
+  resolved "https://registry.yarnpkg.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.8.tgz#e61084f2075b2418e7fe96653257c9ac27d7ca0a"
+  integrity sha512-+HUx8xrBA2WWgJYMhlCy5L69LLgAL8PjsLIyIbh81Ftc0J71V69K04Zqv270VjRSs38rx9djeQPrgidtMdnh3g==
 
 hexo-theme-icarus@^6.1.0:
   version "6.1.0"
