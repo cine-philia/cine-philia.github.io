@@ -9,10 +9,10 @@ https://cine-philia.github.io/post/vitepress-quick-start/
 https://cine-philia.github.io/post/vuepress-quick-start/
 https://cine-philia.github.io/post/upgrade-my-laptop/
 https://cine-philia.github.io/post/understanding-movies/
-https://cine-philia.github.io/post/text-editor-intro/
 https://cine-philia.github.io/post/telegram-quick-start/
-https://cine-philia.github.io/post/search-engine-list/
+https://cine-philia.github.io/post/text-editor-intro/
 https://cine-philia.github.io/post/ssd-intro/
+https://cine-philia.github.io/post/search-engine-list/
 https://cine-philia.github.io/post/mining-intro/
 https://cine-philia.github.io/post/pycharm-tutorial/
 https://cine-philia.github.io/post/learn-gre-index/
@@ -34,8 +34,8 @@ https://cine-philia.github.io/post/crash-course-public-health/
 https://cine-philia.github.io/post/crash-course-physics/
 https://cine-philia.github.io/post/crash-course-psychology/
 https://cine-philia.github.io/post/crash-course-philosophy/
-https://cine-philia.github.io/post/crash-course-outbreak-science/
 https://cine-philia.github.io/post/crash-course-organic-chemistry/
+https://cine-philia.github.io/post/crash-course-outbreak-science/
 https://cine-philia.github.io/post/crash-course-nav-digi-info/
 https://cine-philia.github.io/post/crash-course-mythology/
 https://cine-philia.github.io/post/crash-course-media-literacy/
@@ -56,8 +56,8 @@ https://cine-philia.github.io/post/crash-course-ecology/
 https://cine-philia.github.io/post/crash-course-economics/
 https://cine-philia.github.io/post/crash-course-climate-energy/
 https://cine-philia.github.io/post/crash-course-cs-index/
-https://cine-philia.github.io/post/crash-course-business/
 https://cine-philia.github.io/post/crash-course-chemistry/
+https://cine-philia.github.io/post/crash-course-business/
 https://cine-philia.github.io/post/crash-course-astronomy/
 https://cine-philia.github.io/post/crash-course-botany/
 https://cine-philia.github.io/post/crash-course-black-american-history/
