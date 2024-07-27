@@ -416,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-geography/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-gov/</loc>
     
     <lastmod>2024-07-21</lastmod>
     
@@ -425,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-gov/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-geography/</loc>
     
     <lastmod>2024-07-21</lastmod>
     
@@ -488,7 +488,7 @@
   </url>
   
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-economics/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-ecology/</loc>
     
     <lastmod>2024-07-21</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://cine-philia.github.io/post/crash-course-ecology/</loc>
+    <loc>https://cine-philia.github.io/post/crash-course-economics/</loc>
     
     <lastmod>2024-07-21</lastmod>
     
@@ -1723,7 +1723,7 @@
 
   <url>
     <loc>https://cine-philia.github.io/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1731,21 +1731,21 @@
   
   <url>
     <loc>https://cine-philia.github.io/tags/Hexo/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cine-philia.github.io/tags/Hexo-Theme/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cine-philia.github.io/tags/Hexo-Theme-Redefine/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1754,7 +1754,7 @@
   
   <url>
     <loc>https://cine-philia.github.io/categories/Hexo/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
