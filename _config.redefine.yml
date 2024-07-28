@@ -57,10 +57,12 @@ global:
     # English fonts
     english:
       enable: true # Whether to enable custom english fonts
+      family: JetBrains Mono
+      url: https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap
       #family: Ysabeau # Font family
       #url: https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1..1000;1,1..1000&display=swap # Font URL to CSS file
-      family: Noto Sans
-      url: https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap # Font URL to CSS file
+      # family: Noto Sans
+      # url: https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap # Font URL to CSS file
       # family: Oxygen
       # url: https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap # Font URL to CSS file
   # Content max width
